@@ -1,1 +1,7 @@
 Debug/
+*.aps
+*.sdf
+*.sln
+*.suo
+*.ipch
+ipch/

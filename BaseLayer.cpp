@@ -23,6 +23,8 @@ CBaseLayer::CBaseLayer( char* pName )
 	m_pLayerName = pName ;
 }
 
+//code added
+
 CBaseLayer::~CBaseLayer()
 {
 
